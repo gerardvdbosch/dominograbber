@@ -1,6 +1,4 @@
-package view;/**
- * Created by Gerard van den Bosch on 12/16/2016.
- */
+package view;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
